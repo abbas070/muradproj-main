@@ -1,0 +1,23 @@
+.top {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.left {
+  border-right: 1px solid #b1b1b1;
+}
+
+.countycode {
+  flex: 1;
+}
+
+.result-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  flex-direction: column;
+}
